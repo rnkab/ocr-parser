@@ -1,0 +1,57 @@
+{"data": [{
+    "key": "Product"
+}, {
+    "key": "BOL #"
+    
+}, {
+    "key": "Batch ID"
+    
+}, {
+    "key": "Batch Date"
+    
+}, {
+    "key": "Batch Start"
+    
+}, {
+    "key": "Batch End"
+    
+}, {
+    "key": "Ship Date"
+    
+}, {
+    "key": "Laminate Penetration Depth"
+    
+}, {
+    "key": "Laminate Softening Point"
+    
+}, {
+    "key": "Laminate Viscosity"
+    
+}, {
+    "key": "Laminate Shear RPM WP Mixer 2"
+    
+}, {
+    "key": "Laminate Shear RPM WP Mixer 1"
+    
+}, {
+    "key": "Laminate Shear Temperature WP Mixer 2"
+    
+}, {
+    "key": "Laminate Shear Temperature WP Mixer 1"
+    
+}, {
+    "key": "Laminate Shear Time WP Mixer 2"
+    
+}, {
+    "key": "Laminate Shear Time WP Mixer 1"
+    
+}, {
+    "key": "Laminate Shipping Temperature WP Mixer 3"
+    
+}, {
+    "key": "EM Auto"
+    
+}, {
+    "key": "Scheduled Batch Enabled"
+}]
+}

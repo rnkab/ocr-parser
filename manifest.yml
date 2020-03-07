@@ -1,0 +1,6 @@
+applications:
+- name: ocr_parser
+  memory: 256M
+  timeout: 600
+  path: .
+  command: python server.py

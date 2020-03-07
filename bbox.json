@@ -1,0 +1,46 @@
+{
+   "regions": [
+      {
+         "id": "product",
+         "key": {
+            "id": "product_key",
+            "boundingBox": {
+               "posLeft": 279,
+               "posTop": 1101,
+               "posRight": 792,
+               "posBottom": 1218
+            }
+         },
+         "value": {
+            "id": "product_value",
+            "boundingBox": {
+               "posLeft": 796,
+               "posTop": 1103,
+               "posRight": 1295,
+               "posBottom": 1219
+            }
+         }
+      },
+      {
+         "id": "customer",
+         "key": {
+            "id": "customer_key",
+            "boundingBox": {
+               "posLeft": 1290,
+               "posTop": 1102,
+               "posRight": 1799,
+               "posBottom": 1226
+            }
+         },
+         "value": {
+            "id": "customer_value",
+            "boundingBox": {
+               "posLeft": 1796,
+               "posTop": 1105,
+               "posRight": 2299,
+               "posBottom": 1226
+            }
+         }
+      }
+   ]
+}
